@@ -1,0 +1,93 @@
+{
+    "items": {
+        "item": [
+            {
+                "id": "0001",
+                "type": "donut",
+                "name": "Cake",
+                "ppu": 0.55,
+                "batters": {
+                    "batter": [
+                        {
+                            "id": "1001",
+                            "type": "Regular",
+                            "extraIngredients":[
+                                "banana",
+                                "sugar",
+                                "wheat",
+                                "egg"
+                            ]
+                        },
+                        {
+                            "id": "1002",
+                            "type": "Chocolate", "extraIngredients":[
+                                "banana",
+                                "chocolate"
+                            ]
+                        },
+                        {
+                            "id": "1003",
+                            "type": "Blueberry",
+                            "extraIngredients":[
+                                "blueberry",
+                                "sugar",
+                                "wheat"
+                            ]
+                        },
+                        {
+                            "id": "1004",
+                            "type": "Devil's Food",
+                            "extraIngredients":[
+                                "cocoanut",
+                                "chocolate"
+                            ]
+                        }
+                    ]
+                },
+                "topping": [
+                    {
+                        "id": "5001",
+                        "type": "None",
+                        "extra":[
+                            "sprinkles"
+                        ]
+                    },
+                    {
+                        "id": "5002",
+                        "type": "Glazed",
+                        "extra":[
+                            "nuts",
+                            "sprinkles"
+                        ]
+                    },
+                    {
+                        "id": "5005",
+                        "type": "Sugar",
+                        "extra":[
+                            "oats"
+                        ]
+                    },
+                    {
+                        "id": "5007",
+                        "type": "Powdered Sugar",
+                        "extra":[
+                            "sprinkles"
+                        ]
+                    },
+                    {
+                        "id": "5006",
+                        "type": "Chocolate with Sprinkles"
+                    },
+                    {
+                        "id": "5003",
+                        "type": "Chocolate"
+                    },
+                    {
+                        "id": "5004",
+                        "type": "Maple"
+                    }
+                ]
+            }
+        ]
+    }
+}
